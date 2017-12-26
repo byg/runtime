@@ -1,6 +1,6 @@
 target/
 log/
-.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.jar
 src/main/resources/static_src/_build
 src/main/resources/static_src/node_modules
 src/main/resources/static_src/dist
